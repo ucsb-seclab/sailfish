@@ -1,0 +1,8 @@
+py-solc-x==1.1.1
+networkx==2.5.1
+solidity-parser==0.1.1
+version-parser==1.0.1
+crytic-compile==0.1.12
+ujson==4.3.0
+pydot==1.4.2
+matplotlib==3.2.2
