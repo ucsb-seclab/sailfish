@@ -60,4 +60,5 @@ Find the paper [here](https://arxiv.org/abs/2104.08638).
   title = {SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds},
   booktitle = {IEEE Symposium on Security & Privacy, May 2022},
   year = {2022}
+}
 ```
